@@ -54,5 +54,3 @@ if st.button("Predict"):
         st.warning("Consult a doctor immediately for further evaluation.")
     else:
         st.success("Maintain a healthy lifestyle to reduce future risks.")
-
-# Run with: streamlit run app.py
